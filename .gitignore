@@ -31,3 +31,15 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Kernel optimisations
+*.o.cmd
+
+# Eclipse project files
+.cproject
+.project
+.settings/
+
+
+
+
